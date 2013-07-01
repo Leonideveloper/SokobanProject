@@ -4,6 +4,9 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
+    <integer name="columns">12</integer>
+    <integer name="rows">7</integer>
+
     <string name="action_settings">Settings</string>
     <string name="app_name">Sokoban</string>
     <string name="hello_world">Hello world!</string>

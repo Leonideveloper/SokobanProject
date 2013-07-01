@@ -99,6 +99,21 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                path="C:\Users\Leonid\AndroidStudioProjects\SokobanProject\Sokoban\src\main\res\values\integers.xml"
+                qualifiers="" >
+                <integer name="rows" >
+7
+                </integer>
+                <integer name="columns" >
+12
+                </integer>
+            </file>
+            <file
+                name="img"
+                path="C:\Users\Leonid\AndroidStudioProjects\SokobanProject\Sokoban\src\main\res\drawable\img.png"
+                qualifiers=""
+                type="drawable" />
         </source>
         <source path="C:\Users\Leonid\AndroidStudioProjects\SokobanProject\Sokoban\build\res\rs\debug" />
     </dataSet>
